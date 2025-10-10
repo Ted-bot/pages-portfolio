@@ -1802,7 +1802,7 @@ input, select, textarea {
 		}
 
 		.section-proj {
-			height: 350px; width:100%;background: url('/assets/css/images/origins.png') no-repeat center; background-size: cover;
+			height: 350px; width:100%;background: url('../../assets/css/images/origins.png') no-repeat center; background-size: cover;
 		}
 
 		.img {
