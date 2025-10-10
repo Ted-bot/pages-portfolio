@@ -1763,7 +1763,7 @@ input, select, textarea {
 	}
 
 	.section-proj {
-		height: 175px; width:100%;background: url('./images/origins.png') no-repeat center; background-size: cover;
+		height: 175px; width:100%;background: url('../../assets/css/images/origins.png') no-repeat center; background-size: cover;
 	}
 
 	.image_intro {
