@@ -1762,8 +1762,12 @@ input, select, textarea {
 		width:100%
 	}
 
-	.section-proj {
+	.section-proj-origins {
 		height: 175px; width:100%;background: url('../../assets/css/images/origins.png') no-repeat center; background-size: cover;
+	}
+
+	.section-proj-monster-game {
+		height: 175px; width:100%;background: url('../../assets/css/images/monster_game.png') no-repeat center; background-size: cover;
 	}
 
 	.image_intro {
